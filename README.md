@@ -1,0 +1,2 @@
+# markingman
+auto coin trader
